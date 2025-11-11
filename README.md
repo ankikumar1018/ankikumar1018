@@ -2,7 +2,7 @@
 
 **Senior Software Engineer (Python | FastAPI | AWS | Distributed Systems)**  
 Gurgaon, Haryana, India  
-📧 **Email:** aktetri@gmail.com • 📱 **Phone:** +91 8409992858  
+📧 **Email:** aktetri@gmail.com 
 🔗 **LinkedIn:** https://www.linkedin.com/in/engineer-ankit-kumar  
 🐙 **GitHub:** https://github.com/ankikumar1018  
 
