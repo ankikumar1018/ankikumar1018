@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankit Kumar
 
 <h3 align="center">
-Senior Software Engineer • Python • FastAPI • AWS • Distributed Systems
+Senior Software Engineer • Python • DRF • FastAPI • AWS • Distributed Systems
 </h3>
 
 <p align="center">
