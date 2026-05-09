@@ -1,111 +1,151 @@
 # 👋 Hi, I'm Ankit Kumar
 
-**Senior Software Engineer (Python | FastAPI | AWS | Distributed Systems)**  
-Gurgaon, Haryana, India  
-📧 **Email:** aktetri@gmail.com 
-🔗 **LinkedIn:** https://www.linkedin.com/in/engineer-ankit-kumar  
-🐙 **GitHub:** https://github.com/ankikumar1018  
+<h3 align="center">
+Senior Software Engineer • Python • FastAPI • AWS • Distributed Systems
+</h3>
 
----
+<p align="center">
+  <a href="mailto:aktetri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-### 🧑‍💻 About Me
-Experienced Python backend engineer specializing in **FastAPI**, **Django REST Framework**, and **AWS-based event-driven architectures**.  
-I build scalable APIs, automation workflows, distributed systems, and production-grade CI/CD pipelines.  
-Strong focus on code quality, observability, and system reliability.
+  <a href="https://www.linkedin.com/in/engineer-ankit-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 
----
-
-### 🔥 Key Skills
-
-| Category | Technologies |
-|--------|-------------|
-| **Backend** | Python, FastAPI, Django REST Framework |
-| **Cloud** | AWS (Lambda, S3, DynamoDB, API Gateway, Cognito, Step Functions, CloudWatch, MediaLive) |
-| **DevOps / CI-CD** | GitHub Actions, Terraform, CloudFormation, Docker |
-| **Testing & Quality** | Pytest, Ruff, Coverage |
-| **Data & Reporting** | Pandas, Excel automation, SQL |
-| **Other** | Event-driven systems, API integrations, RPA automation |
-
----
-
-### 🏢 Work Experience
-
-#### **Senior Software Engineer — EPAM Systems** *(Aug 2025 - Present)*
-- Delivered scalable, event-driven solutions on AWS for high-performance backend services.
-- Enhanced API throughput and latency using optimized service patterns.
-- Worked across Python, FastAPI, DRF, and distributed AWS components.
-
-#### **Senior Consultant — StatusNeo** *(Nov 2024 - Aug 2025)*
-- Built live/on-demand video processing pipelines using AWS Media Services.
-- Developed automated API testing framework with Pytest + GitHub Actions.
-- Managed AWS infrastructure using Terraform and CloudFormation.
-
-#### **Software Engineer II — MozaIQ LLC** *(Jul 2024 - Nov 2024)*
-- Created DRF-based API for RPA automation (Selenium-backed), reducing manual effort by 80%.
-- Introduced Ruff linting → faster, cleaner PR cycles.
-- Built client reporting pipeline using Pandas + Excel.
-
-#### **Software Engineer — MozaIQ LLC** *(Feb 2021 - Jul 2024)*
-- Improved Pytest test suite → 10% faster builds, better stability.
-- Implemented Content Security Policy for XSS protection.
-- Designed a common MIME file validator for Django models.
-
-#### **Associate Software Engineer — Assimilate Solutions** *(Feb 2020 - Feb 2021)*
-- Developed automation scripts with Python + Selenium → 75% reduction in manual checks.
-- Built REST APIs supporting RPA flows.
-
----
-
-### 🎓 Education
-**B.Tech, Electronics & Telecommunication**  
-*C.V. Raman College of Engineering (2015 - 2019)*
-
----
-
-### 🛠 Featured Tools & Technologies
-
-<p align="left">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<!-- Testing -->
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-
-<!-- Data -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+  <a href="https://github.com/ankikumar1018">
+    <img src="https://img.shields.io/badge/GitHub-ankikumar1018-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankikumar1018&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankikumar1018&layout=compact)
+Backend engineer with 6+ years of experience building scalable APIs, distributed systems, automation platforms, and cloud-native backend architectures.
+
+💡 Specialized in:
+- FastAPI & Django REST Framework
+- AWS event-driven systems
+- API performance optimization
+- CI/CD automation
+- Testing & backend reliability
+
+I enjoy building production-grade systems with clean architecture, strong observability, and high engineering standards.
 
 ---
 
-### 🚀 What I’m Currently Doing
-- Enhancing backend scalability and latency performance.
-- Working with AWS, distributed workflows, and event-driven backend patterns.
-- Continuously improving developer experience and CI/CD automation.
+## ⚡ Tech Stack
+
+### 🧠 Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🧪 Testing & Quality
+<p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruff-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 ---
 
-### 🤝 Let’s Connect
-If you're working on **API platforms**, **distributed systems**, or **cloud-native backend architectures**, feel free to reach out.
+## 🏢 Experience
 
-📧 **Email:** aktetri@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/engineer-ankit-kumar
+### 🔹 Senior Software Engineer — EPAM Systems *(2025 – Present)*
+- Building scalable event-driven backend systems on AWS
+- Optimizing API throughput and latency
+- Working with FastAPI, DRF, distributed workflows, and cloud-native architectures
+
+### 🔹 Senior Consultant — StatusNeo *(2024 – 2025)*
+- Developed AWS-based live video processing pipelines
+- Built automated API testing frameworks using Pytest + GitHub Actions
+- Managed infrastructure using Terraform & CloudFormation
+
+### 🔹 Software Engineer — MozaIQ LLC *(2021 – 2024)*
+- Developed DRF APIs powering Selenium-based RPA systems
+- Improved Pytest performance and test reliability
+- Built reporting systems using Pandas + Excel automation
+- Implemented security improvements including CSP protection
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankikumar1018&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+</td>
+
+<td align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankikumar1018&layout=compact&langs_count=8&theme=default&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ankikumar1018&theme=github-compact&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=ankikumar1018&theme=default&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- High-performance backend systems
+- Event-driven architecture on AWS
+- FastAPI & distributed workflows
+- CI/CD and developer productivity
+- Backend scalability and observability
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:aktetri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/engineer-ankit-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/ankikumar1018">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
