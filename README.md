@@ -22,7 +22,7 @@ Senior Software Engineer • Python • DRF • FastAPI • AWS • Distributed 
 
 ## 🚀 About Me
 
-Backend engineer with 6+ years of experience building scalable APIs, distributed systems, automation platforms, and cloud-native backend architectures.
+Backend engineer with 6.5+ years of experience building scalable APIs, distributed systems, automation platforms, and cloud-native backend architectures.
 
 💡 Specialized in:
 - FastAPI & Django REST Framework
